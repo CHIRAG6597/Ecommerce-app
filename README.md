@@ -24,4 +24,18 @@ A fully functional e-commerce web application built with React.js. It supports p
 ## 📸 Screenshot
 *(Add a screenshot here after polish)*
 
-## 📁 Folder Structure
+## 🧠 Concepts Used
+- React Context API for global cart/theme state
+- useEffect, useState, useContext
+- Routing with react-router-dom
+- Fetching external APIs
+- Responsive UI design
+
+## 🧬 API Used
+- [Fake Store API](https://fakestoreapi.com/)
+
+## 📬 Contact
+**H M Chirag**  
+📧 chiragshettyhm@gmail.com  
+🌍 Bengaluru, India  
+🔗 [LinkedIn](https://www.linkedin.com/in/h-m-chirag-shetty-0403ab213)
